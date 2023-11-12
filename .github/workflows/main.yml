@@ -118,7 +118,7 @@ jobs:
     - name: Generate Sparkle Appcast
       if: github.event_name == 'workflow_dispatch'
       run: |
-        REPO_COMMIT_URL='https://github.com/OpenIntelWireless/HeliPort/commit/'
+        REPO_COMMIT_URL='https://github.com/diepeterpan/HeliPort/commit/'
         INDENT='                    '
         PART1="${INDENT}<li><a class=\"commit-link\" data-hovercard-type=\"commit\" data-hovercard-url=\"${REPO_COMMIT_URL}"
         PART2="/hovercard\" href=\"${REPO_COMMIT_URL}"
@@ -144,7 +144,7 @@ jobs:
             '            ]]>'
             '            </description>'
             '            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>'
-            "            <enclosure url=\"https://heliport.bat-bat.workers.dev/https://github.com/OpenIntelWireless/HeliPort/releases/latest/download/HeliPort.dmg\" sparkle:version=\"${VER}-stable-${SHORT_SHA}\" sparkle:shortVersionString=\"${VER}\" type=\"application/octet-stream\" $($SPARKLE_BIN/sign_update -s ${SPARKLE_KEY} ./Artifacts/HeliPort.dmg)/>"
+            "            <enclosure url=\"https://heliport.bat-bat.workers.dev/https://github.com/diepeterpan/HeliPort/releases/latest/download/HeliPort.dmg\" sparkle:version=\"${VER}-stable-${SHORT_SHA}\" sparkle:shortVersionString=\"${VER}\" type=\"application/octet-stream\" $($SPARKLE_BIN/sign_update -s ${SPARKLE_KEY} ./Artifacts/HeliPort.dmg)/>"
             '        </item>'
             '    </channel>'
             '</rss>'
