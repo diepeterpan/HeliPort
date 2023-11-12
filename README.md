@@ -1,6 +1,6 @@
 # HeliPort
 
-[![CI](https://github.com/OpenIntelWireless/HeliPort/actions/workflows/main.yml/badge.svg)](https://github.com/OpenIntelWireless/HeliPort/actions/workflows/main.yml)
+[![CI](https://github.com/OpenIntelWireless/HeliPort/actions/workflows/main.yml/badge.svg)](https://github.com/diepeterpan/HeliPortSonoma/actions/workflows/main.yml)
 
 Intel WiFi Client for [itlwm](https://github.com/OpenIntelWireless/itlwm)
 
@@ -12,11 +12,11 @@ If you have any questions or feedback, feel free to [![Join the chat at https://
 
 ### Latest Stable Version
 
-[![Download from https://github.com/OpenIntelWireless/HeliPort/releases/latest](https://img.shields.io/github/v/release/OpenIntelWireless/HeliPort?color=%2300AABB&label=Download)](https://github.com/OpenIntelWireless/HeliPort/releases/latest)
+[![Download from https://github.com/diepeterpan/HeliPortSonoma/releases/latest](https://img.shields.io/github/v/release/diepeterpan/HeliPortSonoma?color=%2300AABB&label=Download)](https://github.com/diepeterpan/HeliPortSonoma/releases/latest)
 
 ### Latest Alpha Version
 
-[![Download from https://github.com/OpenIntelWireless/HeliPort/releases](https://img.shields.io/github/v/release/OpenIntelWireless/HeliPort?include_prereleases&label=Download)](https://github.com/OpenIntelWireless/HeliPort/releases)
+[![Download from https://github.com/OpenIntelWireless/HeliPort/releases](https://img.shields.io/github/v/release/diepeterpan/HeliPortSonoma?include_prereleases&label=Download)](https://github.com/diepeterpan/HeliPortSonoma/releases)
 
 ## Status
 
@@ -24,7 +24,7 @@ The App is currently functional, we're still trying make it even better.
 
 ### To-Do's
 
-Visit [Projects](https://github.com/OpenIntelWireless/HeliPort/projects) for more information
+Visit [Projects](https://github.com/diepeterpan/HeliPortSonoma/projects) for more information
 
 ## Issues
 
